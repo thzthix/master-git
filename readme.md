@@ -1,4 +1,4 @@
-## Welcome to Git!
+## Heyyo everyone, welcome to my guide!
 
--I'm adding this from `dev-Bookbo`
+-Yo, Bookbo here!
 `feature-branch`
